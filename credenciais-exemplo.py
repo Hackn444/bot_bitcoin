@@ -1,0 +1,3 @@
+USERNAME ='username'
+KEY ='123'
+SECRET ='321'
