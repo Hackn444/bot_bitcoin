@@ -3,6 +3,7 @@ import json
 
 import websocket
 
+
 def comprar():
     pass
 
